@@ -1,3 +1,9 @@
+clip-interrogator的GUI整合包，配置好了国内一键安装，简单修改整合了一下GUI
+
+视频过程可见[B站视频](https://www.bilibili.com/video/BV19b4y1G7Hs)
+
+以下为原说明文档
+
 # clip-interrogator
 
 *Want to figure out what a good prompt might be to create new images like an existing one? The **CLIP Interrogator** is here to get you answers!*
