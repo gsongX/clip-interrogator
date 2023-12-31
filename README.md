@@ -1,8 +1,12 @@
 clip-interrogator的GUI整合包，配置好了国内一键安装，
 
-为方便进行训练集打标，简单修改整合了一下GUI
+为方便进行训练集打标，简单修改整合了一下GUI，并且把[一个很好用的tag管理器(原地址在这里快去给个star)](https://github.com/starik222/BooruDatasetTagManager)打进了包里
+
+可以直接下载Releases解压安装
 
 视频过程可见[B站视频](https://www.bilibili.com/video/BV19b4y1G7Hs)
+
+
 
 以下为原说明文档
 
