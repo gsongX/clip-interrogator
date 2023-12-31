@@ -1,5 +1,7 @@
-clip-interrogator的GUI整合包，配置好了国内一键安装，简单修改整合了一下GUI
-为方便进行训练集打标
+clip-interrogator的GUI整合包，配置好了国内一键安装，
+
+为方便进行训练集打标，简单修改整合了一下GUI
+
 视频过程可见[B站视频](https://www.bilibili.com/video/BV19b4y1G7Hs)
 
 以下为原说明文档
