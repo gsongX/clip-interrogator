@@ -80,10 +80,12 @@ class Interrogator():
 
     def load_caption_model(self):
         if self.config.caption_model is None and self.config.caption_model_name:
+            print("self.config.caption_model",self.config.caption_model)
             if not self.config.quiet:
                 print(f"Loading caption model {self.config.caption_model_name}...")
 
             model_path = CAPTION_MODELS[self.config.caption_model_name]
+            print("model_path",model_path)
             if self.config.caption_model_name.startswith('git-'):
                 caption_model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.float32)
             elif self.config.caption_model_name.startswith('blip2-'):
