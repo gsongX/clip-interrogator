@@ -386,7 +386,7 @@ class LabelTable():
             return [self.labels[i] for i in tops]
 
         num_chunks = int(math.ceil(len(self.labels)/self.chunk_size))
-        keep_per_chunk = int(self.chunk_size / num_chunks)
+        keep_per_chunk = int(math.ceil(self.chunk_size / num_chunks))
 
         top_labels, top_embeds = [], []
         for chunk_idx in tqdm(range(num_chunks), disable=self.config.quiet):
