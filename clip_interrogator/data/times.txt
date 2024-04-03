@@ -1,0 +1,17 @@
+spring
+summer
+fall
+winter
+morning
+afternoon
+evening
+night time
+day time
+sunny
+rainy
+windy
+cloudy
+snowy
+midday
+blue hour
+golden hour

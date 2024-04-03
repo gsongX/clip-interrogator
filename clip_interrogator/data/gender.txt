@@ -1,0 +1,10 @@
+man
+woman
+boy
+girl
+male
+female
+lesbian
+gay
+bisexuality
+transgender
