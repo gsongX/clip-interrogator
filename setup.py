@@ -9,7 +9,7 @@ setup(
     license='MIT',
     author='pharmapsychotic',
     author_email='me@pharmapsychotic.com',
-    url='https://github.com/pharmapsychotic/clip-interrogator',
+    url='https://github.com/gsongX/clip-interrogator',
     description="Generate a prompt from an image",
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
